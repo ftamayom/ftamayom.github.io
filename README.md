@@ -1,7 +1,7 @@
 # Francisco Tamayo
 This is my personal portfolio
 
-![Francisco Tamayo](https://ftamayom.github.com/assets/me.jpg?raw=true "Francisco Tamayo")
+![Francisco Tamayo](https://ftamayom.github.io/assets/me.jpg "Francisco Tamayo")
 
 ## Installation
 1. Clone or download this repository.
